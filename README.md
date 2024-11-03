@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Wesley Fabricio
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Julia, C++ , C# and JavaScript
-- 💞️ I’m looking to collaborate on projects at area Data Science, but I not very experience of market
 - 🐙 I am studenty oceanography in federal university of Rio Grande(Brazil)
 - 📫 Posso ser encontrado por E-mail Wesley.batista99@hotmail.com
 
